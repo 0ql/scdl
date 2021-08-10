@@ -8,4 +8,4 @@ Make sure to add the URL of the Backend to the Frontend Typescript in the fronte
 
 ## Screenshot
 
-![Alt text](https://i.imgur.com/lgbBgor.png "Optional title")
+![Alt text](https://i.imgur.com/TzhXt2o.png "Optional title")

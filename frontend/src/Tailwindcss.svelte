@@ -1,0 +1,9 @@
+<style global>
+  @tailwind base;
+  @tailwind components;
+  @tailwind utilities;
+
+  * {
+      font-family: "Poppins", sans-serif;
+  }
+</style>
